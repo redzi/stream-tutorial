@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-
 // implement all of the methods so that that junits in FilterTest pass
 class Filter
 {
