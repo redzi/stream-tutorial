@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
-public class Collectors
+class Collectors
 {
     public boolean doAllTreesHaveBranches(List<Tree> trees)
     {
